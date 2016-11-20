@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth Robot Car</string>
+    <string name="action_settings">Settings</string>
+</resources>
